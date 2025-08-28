@@ -10,8 +10,8 @@ The code and data processing scripts of this work are coming soon after this wor
 
   **Click to view the video:**
 
-  <a href="https://youtube.com" target="_blank">
-  <img src="media/Architecture.png" 
+  <a href="https://www.youtube.com/watch?v=9s9Y0j7Zhtk" target="_blank">
+  <img src="" 
        alt="Watch the video"
        width="400"/>
   </a>
