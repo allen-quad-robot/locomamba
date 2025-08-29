@@ -11,9 +11,11 @@ The code and data processing scripts of this work are coming soon after this wor
   **Click to view the video:**
 
   <a href="https://www.youtube.com/watch?v=9s9Y0j7Zhtk" target="_blank">
-  <img src="https://i9.ytimg.com/vi_webp/9s9Y0j7Zhtk/sddefault.webp?v=68b0a8f3&sqp=CJTowsUG&rs=AOn4CLDoCtdciQPKTS2unlQ_TiLPhu7WpA" 
+  <img src="https://github.com/user-attachments/assets/7204ba8a-9c6e-475d-8aeb-9f49187df7a1" 
        alt="Watch the video"
-       width="400"/>
+       width="400"
+       style="border: 3px solid #333; border-radius: 8px;"
+  />
   </a>
 
 # Architecture
